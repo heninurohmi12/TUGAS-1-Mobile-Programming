@@ -1,3 +1,3 @@
-# TUGAS-1-Mobile-Programming
-
-HENI NUROHMI_17090109_5D
+Nama : Heni Nurohmi
+NIM  : 17090109
+Kelas: 5D
